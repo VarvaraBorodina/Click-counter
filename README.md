@@ -12,4 +12,4 @@ Simple counter of your clicks
 
 ### DEMO
 
-[Watch](https://varvaraborodina.github.io/Click-counter/)
+[Watch](https://varvaraborodina.github.io/click-counter/)
